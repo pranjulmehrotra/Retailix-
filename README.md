@@ -28,7 +28,7 @@ Package Manager: npm
 
 Clone the repository:
 
-git clone https://github.com/yourusername/retailix.git
+git clone https://github.com/pranjulmehrotra/Retailix-.git
 cd retailix
 
 Install dependencies:
