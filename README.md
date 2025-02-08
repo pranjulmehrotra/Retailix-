@@ -1,69 +1,76 @@
-# Welcome to your Lovable project
+Retailix - eCommerce Frontend
 
-## Project info
+Retailix is a modern, responsive eCommerce frontend designed to provide a seamless shopping experience. Built with cutting-edge technologies, it delivers an intuitive UI, smooth navigation, and an optimized performance for online shoppers.
 
-**URL**: https://lovable.dev/projects/983479b9-809a-4bb0-9ab3-98ab24f1bcd4
+🚀 Features
 
-## How can I edit this code?
+Elegant UI/UX - Designed for an engaging shopping experience.
 
-There are several ways of editing your application.
+Product Listings - Dynamic product display with filtering options.
 
-**Use Lovable**
+Cart Functionality - Interactive cart system for adding/removing products.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/983479b9-809a-4bb0-9ab3-98ab24f1bcd4) and start prompting.
+Search & Filter - Quickly find products with search and category filters.
 
-Changes made via Lovable will be committed automatically to this repo.
+Mobile Responsive - Fully optimized for all screen sizes.
 
-**Use your preferred IDE**
+🛠 Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Framework: React + Vite
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Styling: Tailwind CSS
 
-Follow these steps:
+State Management: Context API
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Package Manager: npm
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🔧 Setup & Installation
 
-# Step 3: Install the necessary dependencies.
-npm i
+Clone the repository:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+git clone https://github.com/yourusername/retailix.git
+cd retailix
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+Open the app in your browser at http://localhost:5173/.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🚀 Deployment on Netlify
 
-**Use GitHub Codespaces**
+Build the project:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+npm run build
 
-## What technologies are used for this project?
+Deploy using Netlify CLI:
 
-This project is built with .
+netlify deploy --prod
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📸 Screenshots
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/983479b9-809a-4bb0-9ab3-98ab24f1bcd4) and click on Share -> Publish.
 
-## I want to use a custom domain - is that possible?
+💡 Future Enhancements
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Backend API integration
+
+User authentication & checkout process
+
+Dark mode support
+
+👨‍💻 Contributing
+
+Pull requests are welcome. Open an issue for feature requests or bug reports.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+🌐 Live Demo
+
+Retailix Live
