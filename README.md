@@ -71,7 +71,7 @@ Pull requests are welcome. Open an issue for feature requests or bug reports.
 
 This project is licensed under the MIT License.
 
-🌐 Live Demo
+🌐 Live Demo retailix08.netlify.app
 
 Retailix Live![Screenshot 2025-02-08 115929](https://github.com/user-attachments/assets/0b8de1e9-8e25-4f9e-b34f-e582c861d9f7)
 ![Screenshot 2025-02-08 115949](https://github.com/user-attachments/assets/9133c09a-8593-4f66-b4e6-1e113ced8ff6)
